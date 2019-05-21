@@ -1,0 +1,17 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background: #eeeeee;
+}
+
+h1 {
+    color: #c10000;
+}
+
+h2 {
+    color: #ff4949;
+}
+
+h3{
+    color: #dedede;
+    background: black;
+}
